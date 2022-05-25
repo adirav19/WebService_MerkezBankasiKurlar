@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebService_MerkezBankasiKurlar", "WebService_MerkezBankasiKurlar\WebService_MerkezBankasiKurlar.csproj", "{D352557D-6626-4B89-8752-81E96883F3C7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{9A6294F5-EB3A-470B-BC15-15F1C7DE657E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyTEST", "CurrencyTEST\CurrencyTEST.csproj", "{931203E6-98EF-4445-9F0E-3CFAEB399009}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D352557D-6626-4B89-8752-81E96883F3C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D352557D-6626-4B89-8752-81E96883F3C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D352557D-6626-4B89-8752-81E96883F3C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D352557D-6626-4B89-8752-81E96883F3C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{931203E6-98EF-4445-9F0E-3CFAEB399009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{931203E6-98EF-4445-9F0E-3CFAEB399009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{931203E6-98EF-4445-9F0E-3CFAEB399009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{931203E6-98EF-4445-9F0E-3CFAEB399009}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{931203E6-98EF-4445-9F0E-3CFAEB399009} = {9A6294F5-EB3A-470B-BC15-15F1C7DE657E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0675F61C-1CC3-470C-AE06-C90F917C6C12}
+	EndGlobalSection
+EndGlobal
